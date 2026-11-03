@@ -1,0 +1,11 @@
+Student ID,Attendance(%),Study hours/week,Previous score,Gender,Programme,Final result
+ST001,85,12,72,Male,IT,Pass
+ST002,60,5,45,Female,Business,Fail
+ST003,92,18,88,Male,IT,Pass
+ST004,,8,55,Female,Business,Fail
+ST005,110,15,78,Male,IT,Pass
+ST006,75,,65,Female,IT,Pass
+ST007,60,5,45,Female,Business,Fail
+ST008,48,3,35,Male,Business,Fail
+ST009,88,14,82,Female,IT,Pass
+ST010,70,9,60,M,IT,Pass
